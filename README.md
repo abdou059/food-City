@@ -20,7 +20,7 @@ The website offers the property of the ability to order your meal from your home
 
 
 # **How to get the project locally**
-1. Press at `https://github.com/GSG-CF04/ToDo-List-06.git.`
+1. Press at `https://github.com/abdou059/foodCity.git`
 2. Click on **Code** button.
 3. Clone the repository (copy the link).
 4. Open Git Bash in your path.
@@ -57,4 +57,3 @@ The website offers the property of the ability to order your meal from your home
 * **CSS ➙** to style the website.
 * **JS | DOM Manipulations ➙** to conect the pages with eachothers and make the pages intreractive.
 * **LocalStorage ➙** to save the data in the browser.
-# Team Leader
